@@ -1,4 +1,8 @@
-* Install XAMPP and configure Apache port if already taken (we need it for the MySql db), and create a database named "fullstack"
+* Database setup: 
+  - Install sqlserver and Oracle XE (remember the password you set there FOR THE REST OF YOUR LIFE!)
+  - create a connection from the user SYSTEM
+  - add a user (I called it DRAGUSIN_C) and grant him all the possible roles and privileges
+  - create a new connection from that user, there you will have the results
 * set the application properties
 * For a basic application:
   1. Create the following folder structure:
