@@ -1,4 +1,4 @@
-* Install XAMPP and configure Apache port if already taken (we need it for the MySql db)
+* Install XAMPP and configure Apache port if already taken (we need it for the MySql db), and create a database named "fullstack"
 * set the application properties
 * For a basic application:
   1. Create the following folder structure:
